@@ -81,3 +81,7 @@ body {
     -o-object-position: left;
        object-position: left; }
 
+  .login-img {
+    display: flex;
+    justify-content: left;
+}
